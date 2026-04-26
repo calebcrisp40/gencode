@@ -1,5 +1,5 @@
 {
-  "name": "@workspace/discord-bot",
+  "name": "discord-bot",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -10,10 +10,10 @@
   },
   "dependencies": {
     "discord.js": "^14.16.3",
-    "tsx": "catalog:"
+    "tsx": "^4.19.0"
   },
   "devDependencies": {
-    "@types/node": "catalog:",
+    "@types/node": "^22.0.0",
     "typescript": "~5.9.2"
   }
 }
